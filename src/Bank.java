@@ -3,7 +3,8 @@ public class Bank {
     String BankAccount;
     double Loan;
     String BankName;
-
+    ATM atm;
+    Card card;
     void CreateAccount() {
 
     }

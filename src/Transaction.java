@@ -1,6 +1,6 @@
 public class Transaction {
     double MoneyAmount;
-
+    ATM atm;
     int Deposit(int a) {
         return a;
     }
